@@ -1,0 +1,5 @@
+temperature
+8
+65
+3
+43
